@@ -6,12 +6,12 @@ description:
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 17611 W 16TH AVE APT 208
+city: Golden
+state: CO
+zip_code: 80401
 country: United States of America
-phone: (716) 555-5555
+phone: (707) 567-8795
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -24,10 +24,10 @@ github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/varad-deshmukh-b5367823/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/vrd1243
 
 # build settings
 markdown: kramdown
