@@ -5,7 +5,7 @@ image: assets/images/active_pic.jpg
 category: html
 nav-menu: true
 ---
-
+<section id="two" class="spotlights">
 <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/active_pic.jpg" alt="" data-position="center center" />
@@ -31,3 +31,4 @@ You can drop me an email at varad [dot] deshmukh [at] colorado [dot] edu
 			</div>
 		</div>
 	</section>
+</section>
