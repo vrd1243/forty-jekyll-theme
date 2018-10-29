@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Teaching 
-description: Lorem ipsum dolor est
 category: html
 
 nav-menu: true
