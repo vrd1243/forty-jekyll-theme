@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: page 
 title: Research 
 description: Research 
 image: assets/images/lorenz.jpg
