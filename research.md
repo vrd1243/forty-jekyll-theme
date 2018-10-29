@@ -2,7 +2,7 @@
 layout: page 
 title: Research 
 description: Research 
-image: assets/images/lorenz.jpg
+image: assets/images/lorenz.png
 nav-menu: true
 ---
 
