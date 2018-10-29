@@ -1,7 +1,6 @@
 ---
 layout: post 
 title: About
-description: About
 image: assets/images/active_pic.jpg
 category: html
 nav-menu: true

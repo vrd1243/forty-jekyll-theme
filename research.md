@@ -1,7 +1,6 @@
 ---
 layout: page 
 title: Research 
-description: Research 
 image: assets/images/lorenz.png
 category: html
 nav-menu: true
