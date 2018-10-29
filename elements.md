@@ -19,9 +19,9 @@ nav-menu: true
 <h3> Science and Math blogs I love to browse occasionally</h3>
 
 <ul>
-<li> <a href = "quantamagazine.org">Quanta Magazine</a> -- Blog on work of scientists involved in trending/interdisciplinary/esoteric research work.
+<li> <a href = "https://quantamagazine.org">Quanta Magazine</a> -- Blog on work of scientists involved in trending/interdisciplinary/esoteric research work.
 </li>
-<li> <a href = "skyandtelescope.com">Sky and Telescope</a> -- A great site for the amateur astronomer.
+<li> <a href = "https://skyandtelescope.com">Sky and Telescope</a> -- A great site for the amateur astronomer.
 </li>
 <li> <a href = "http://www.kierandkelly.com/what-is-creativity/">Incompressible Dynamics</a> -- Kieran Kelly's blog on Complexity/Non-linear Dynamics and Machine Learning articles.
 </li>
