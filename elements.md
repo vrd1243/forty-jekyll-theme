@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elements
+category: html
 nav-menu: true
 ---
 
