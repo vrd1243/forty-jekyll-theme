@@ -13,7 +13,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>About</h3>
 				</header>
 				<p>I am a second year PhD student studying computer science at CU Boulder. I'm working with <a href="https://www.cs.colorado.edu/~lizb/">Prof. Liz Bradley</a>, and my primary research interests are time series analysis and forecasting. 
 I have also recently started dabbling in Deep Learning and Artificial Intelligence. 
